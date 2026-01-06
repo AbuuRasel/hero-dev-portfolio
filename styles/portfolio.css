@@ -37,7 +37,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 51px;
+  /*padding-top: 10px;*/
 }
 .logo h2{
   font-size: 41px;
@@ -59,7 +59,7 @@ nav .menu a{
 #banner {
   display: flex;
   max-width: 1332px;
-  margin: 161px 38px 0 230px;
+  margin: 47px 38px 0 230px;
   align-items: center;
   justify-content: space-between;
 }
