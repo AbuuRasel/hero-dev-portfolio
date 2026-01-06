@@ -22,9 +22,10 @@
   color: white;
   cursor: pointer;
 }
+/*main style*/
 header{
   background-color: #FFF8F3;
-  margin-top: 51px;
+  padding-top: 50px;
   background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
   background-repeat: no-repeat;
   background-position: top left, bottom right;
@@ -52,6 +53,7 @@ nav .menu a{
   text-decoration: none;
   font-size: 20px;
   color: #474747;
+  font-weight: 500;
 }
 #banner {
   display: flex;
@@ -81,4 +83,5 @@ nav .menu a{
 #banner .banner-image img{
   max-width: 584px;
   vertical-align: middle;
+  height: 676px;
 }
